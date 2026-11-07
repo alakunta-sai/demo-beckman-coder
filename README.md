@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--demo-ma-aem-coder--shivangi1422.aem.page/
-- Live: https://main--demo-ma-aem-coder--shivangi1422.aem.live/
+- Preview: https://main--demo-aem-coder--alakunta-sai.aem.page/
+- Live: https://main--demo-aem-coder--alakunta-sai.aem.live/
 
 ## Documentation
 

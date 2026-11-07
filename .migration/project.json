@@ -1,13 +1,13 @@
 {
   "sites": {
-    "demo-ma-aem-coder": {
-      "previewOrg": "shivangi1422",
-      "previewSite": "demo-ma-aem-coder",
+    "demo-aem-coder": {
+      "previewOrg": "alakunta-sai",
+      "previewSite": "demo-aem-coder",
       "contentHostUrl": "author-p24152-e1275188.adobeaemcloud.com",
-      "baseUrl": "https://www.beckmancoulter.com/",
-      "aemSitePath": "/content/demo-ma-aem-coder",
-      "aemAssetsFolderPath": "/content/dam/demo-ma-aem-coder",
-      "aemSiteName": "demo-ma-aem-coder",
+      "baseUrl": "https://www.beckman.com/?country=US&language=en-US",
+      "aemSitePath": "/content/demo-aem-coder",
+      "aemAssetsFolderPath": "/content/dam/demo-aem-coder",
+      "aemSiteName": "demo-aem-coder",
       "aemSiteTitle": "Site Beckman"
     }
   }
