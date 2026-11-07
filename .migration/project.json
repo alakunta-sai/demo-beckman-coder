@@ -4,11 +4,11 @@
       "previewOrg": "alakunta-sai",
       "previewSite": "demo-aem-coder",
       "contentHostUrl": "author-p24152-e1275188.adobeaemcloud.com",
-      "baseUrl": "https://www.beckman.com/?country=US&language=en-US",
+      "baseUrl": "https://www.beckman.com",
       "aemSitePath": "/content/demo-aem-coder",
       "aemAssetsFolderPath": "/content/dam/demo-aem-coder",
       "aemSiteName": "demo-aem-coder",
-      "aemSiteTitle": "Site Beckman"
+      "aemSiteTitle": "Site Beckman Demo" 
     }
   }
 }
