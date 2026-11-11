@@ -2,12 +2,12 @@
   "sites": {
     "demo-aem-coder": {
       "previewOrg": "alakunta-sai",
-      "previewSite": "demo-aem-coder",
+      "previewSite": "demo-beckman-coder",
       "contentHostUrl": "author-p24152-e1275188.adobeaemcloud.com",
       "baseUrl": "https://www.beckman.com",
-      "aemSitePath": "/content/demo-aem-coder",
-      "aemAssetsFolderPath": "/content/dam/demo-aem-coder",
-      "aemSiteName": "demo-aem-coder",
+      "aemSitePath": "/content/demo-beckman-coder",
+      "aemAssetsFolderPath": "/content/dam/demo-beckman-coder",
+      "aemSiteName": "demo-beckman-coder",
       "aemSiteTitle": "Site Beckman Demo" 
     }
   }
