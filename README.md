@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--demo-aem-coder--alakunta-sai.aem.page/
-- Live: https://main--demo-aem-coder--alakunta-sai.aem.live/
+- Preview: https://main--demo-beckman-coder--alakunta-sai.aem.page/
+- Live: https://main--demo-beckman-coder--alakunta-sai.aem.live/
 
 ## Documentation
 
